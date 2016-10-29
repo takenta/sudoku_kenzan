@@ -1,0 +1,6 @@
+[package]
+name = "sudoku_kenzan"
+version = "0.1.0"
+authors = ["takenta <takenta0920@outlook.com>"]
+
+[dependencies]
